@@ -1,3 +1,3 @@
 # Kokoa clone 2022 update
 
-CSS got so much better
+HTNL and CSS are so much fun!
